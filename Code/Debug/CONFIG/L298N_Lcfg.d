@@ -1,0 +1,1 @@
+CONFIG/L298N_Lcfg.o CONFIG/L298N_Lcfg.o: ../CONFIG/L298N_Lcfg.c
